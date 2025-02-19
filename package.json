@@ -1,0 +1,20 @@
+{
+  "name": "advanced-nodejs-cli",
+  "version": "1.0.0",
+  "description": "This is an advanced CLI (Command-Line Interface) tool built using Node.js. It provides powerful features such as file manipulation, API interactions, automation, and more. The tool is designed to be modular, extensible, and user-friendly.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.4.2"
+  }
+}
