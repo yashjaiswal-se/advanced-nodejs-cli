@@ -1,0 +1,13 @@
+[2025-02-21T09:23:25.944Z] INFO: [33m📖 File Content of 'sample.txt':[39m
+[33m[39m
+[2025-02-21T09:23:55.890Z] INFO: [32m✅ File 'sample2.txt' written successfully in 'texts/'![39m
+[2025-02-21T09:33:15.812Z] ERROR: Error: Command failed: ls -l
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-02-21T09:33:16.043Z] INFO: Output:
+Hello World
+
+[2025-02-21T09:33:47.455Z] INFO: Output:
+D:\VIT-AP COLLEGE\New folder\advanced-nodejs-cli
+
